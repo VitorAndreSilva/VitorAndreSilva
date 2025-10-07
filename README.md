@@ -1,6 +1,6 @@
 ### Welcome! I am Vitor André!
 
-- I'm 16 years old
+- I'm 17 years old
 - Study <strong>Técnico em Informática para Internet</strong> at <strong>IFC - Campus Araquari</strong>
 - 2º year of high school
 - Most used languages: Python and JavaScript
